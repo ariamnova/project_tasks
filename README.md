@@ -1,2 +1,2 @@
-# project_tasks
+# Code snippets for the project tasks
 Project tasks
